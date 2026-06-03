@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 52" role="img" aria-label="TGL — The Great Logics">
+  <defs>
+    <linearGradient id="tgl-accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#14b8a6"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+  </defs>
+  <text x="0" y="38" font-family="Outfit, Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="url(#tgl-accent)">TGL</text>
+  <text x="82" y="22" font-family="Outfit, Arial, Helvetica, sans-serif" font-size="9.5" font-weight="600" fill="#94a3b8" letter-spacing="0.12em">THE GREAT</text>
+  <text x="82" y="36" font-family="Outfit, Arial, Helvetica, sans-serif" font-size="9.5" font-weight="600" fill="#94a3b8" letter-spacing="0.12em">LOGICS</text>
+</svg>

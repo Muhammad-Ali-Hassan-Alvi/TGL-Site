@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="TGL">
+  <rect width="32" height="32" rx="8" fill="#0b1220"/>
+  <rect x="1" y="1" width="30" height="30" rx="7" fill="none" stroke="#14b8a6" stroke-width="1" opacity="0.5"/>
+  <text x="16" y="21" text-anchor="middle" font-family="Outfit, Arial, Helvetica, sans-serif" font-size="11" font-weight="700" fill="#14b8a6">TGL</text>
+</svg>
